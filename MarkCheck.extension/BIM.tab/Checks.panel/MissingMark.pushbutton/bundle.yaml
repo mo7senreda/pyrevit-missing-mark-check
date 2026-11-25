@@ -1,2 +1,2 @@
 title: Missing Mark
-tooltip: Lists structural columns and beams that have an empty Mark. Read only.
+tooltip: Lists model elements (all categories, all phases and design options) that have a Mark parameter but it is empty. Read only.
